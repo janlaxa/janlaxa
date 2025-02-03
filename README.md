@@ -5,7 +5,7 @@
 I'm a data analyst & scientist keen on solving complex data problems and transform the insights into actionable data stories. Whether it's predictive modeling, advanced analytics, or other business intelligence tasks, I aim to connect the dots first—sometimes with a little help from artificial neurons. ✨
 
 ### 🪴 Current Project(s)
-- Building **data stories** to showcase answer questions to solve problems
+- Creating **data stories** through full scope data projects to answer questions and solve problems
 
 ---
 I believe the best insights often come unexpectedly, so I stay ready to share them as they come. If you're looking for someone to help tackle your data challenges, let's collaborate! 🤝
