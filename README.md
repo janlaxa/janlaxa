@@ -4,7 +4,7 @@ I believe the best insights often come unexpectedly, let's collaborate! 🤝
 
 <a href="https://newsletter.skvara.org/" target="_blank"> <img src="https://img.shields.io/badge/%C5%A0kv%C3%A1ra-Sports_Economics-fafafa?style=flat&logo=substack&logoColor=fafafa&logoSize=auto&link=https%3A%2F%2Fnewsletter.skvara.org%2F" /></a> 
 <a href="https://laxa.cz/en/" target="_blank"> <img src="https://img.shields.io/badge/Personal_Website-0D28FF?style=flat&labelColor=FFFFFF&color=0D28FF&link=https%3A%2F%2Flaxa.cz%2Fen%2F" /></a> 
-<a href="https://laxa.cz/en/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0C68C3?style=flat&labelColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjanlaxa%2F" /></a> 
+<a href="https://linkedin.com/in/janlaxa/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0C68C3?style=flat&labelColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjanlaxa%2F" /></a> 
 
 📩 jan@laxa.cz
 
